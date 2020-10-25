@@ -1,0 +1,25 @@
+{
+  "tsserver.npm": "C:\\Program Files\\nodejs",
+  "suggest.noselect": false,
+  "coc.preferences.formatOnSaveFiletypes": [
+    "css",
+    "typescript",
+    "markdown",
+    "javascript",
+    "typescriptreact",
+    "json",
+    "javascriptreact"
+  ],
+  "html.filetypes": [
+    "javascript",
+    "json",
+    "typescript",
+    "typescriptreact",
+    "javascriptreact"
+  ],
+  "explorer.focus": true,
+  "explorer.icon.enableNerdfont": true,
+  "git.enableGutters": true,
+  "explorer.previewAction.onHover": true,
+  "typescript.suggest.autoImports": true 
+}
